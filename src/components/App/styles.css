@@ -1,0 +1,17 @@
+body {
+  background-color: #bdc3c7;
+  box-sizing: border-box;
+}
+
+.app {
+  width: 80%;
+  margin: auto;
+  background-color: #ecf0f1;
+  padding: 10px;
+}
+
+.logo-github {
+  display: block;
+  width: 200px;
+  margin: 10px auto;
+}

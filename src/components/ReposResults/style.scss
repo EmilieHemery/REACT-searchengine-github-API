@@ -1,0 +1,12 @@
+.repos-results{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.result-item{
+  margin: 5px;
+  width: 100%;
+  min-width: 200px;
+  max-width: 250px;
+  
+}
